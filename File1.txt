@@ -2,9 +2,9 @@ HEllo
 
 class MyClass
 {
-	public static void main(String args[])
-		{
-			system.out.println("Welcome to GIT");
-			system.out.println("Welcome to GIT world");
-		}
+			public static void main(String args[])
+				{
+					system.out.println("Welcome to GIT");
+					system.out.println("Welcome to GIT world");
+				}
 }
