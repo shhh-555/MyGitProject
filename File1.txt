@@ -4,10 +4,10 @@ class MyClass
 {
 			public static void main(String args[])
 				{
-					system.out.println("Welcome to GIT");
+					system.out.println("Welcome to GIT...");
 					
 				}
-			void myMethod()
+			public static void myMethod()
 				{
 					system.out.println("Welcome to GIT world");
 				}
