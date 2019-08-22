@@ -5,13 +5,14 @@ class MyClass
 			public static void main(String args[])
 				{
 					system.out.println("Welcome to GIT...");
-					myMethod("kajal");
+					MyClass obj=new MyClass();
+					obj.myMethod("kajal");
 					
 				}
 
 			
 
-			private  static void myMethod(String str)
+			private   void myMethod(String str)
 
 				{
 					system.out.println(str);
