@@ -7,8 +7,8 @@ class MyClass
 					system.out.println("Welcome to GIT");
 					
 				}
-			void myMethod()
+			private void myMethod(String str)
 				{
-					system.out.println("Welcome to GIT world");
+					system.out.println(str);
 				}
 }
